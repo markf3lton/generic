@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 9f2c85e2-6c39-4da7-8b86-5448ff83bfe3
+name: drupal9
+mail: mark.felton@acquia.com
+slogan: 'A generic Drupal 9 site.'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
