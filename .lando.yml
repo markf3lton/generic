@@ -1,0 +1,4 @@
+name: generic
+recipe: drupal9
+config:
+  webroot: .
